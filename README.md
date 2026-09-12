@@ -8,11 +8,6 @@ Currently learning Python, Java & Full-Stack Development
 
 ## About Me
 
-<!--
-**Vince-0511/Vince-0511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on: 
 - 🌱 I’m currently learning: Python, Java, Full-Stack Development
 - 👯 I’m looking to collaborate on: Software Development Group Projects
